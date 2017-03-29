@@ -1,0 +1,324 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/5940-724/Desktop/lab4
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vALU
+Z1 !s110 1389824359
+Z2 !s100 2geRlFCXNAoIzZkYnCfK20
+Z3 IB[LU?nkokJnGi^Mmlm;?G0
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+Z5 dC:/Users/5940-724/Desktop/lab4
+Z6 w1389822699
+Z7 8C:/Users/5940-724/Desktop/lab4/lab7_library.v
+Z8 FC:/Users/5940-724/Desktop/lab4/lab7_library.v
+L0 10
+Z9 OP;L;10.2c;57
+r1
+31
+Z10 !s108 1389824359.887000
+Z11 !s107 constants.h|C:/Users/5940-724/Desktop/lab4/lab7_library.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/lab7_library.v|
+Z13 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z14 n@a@l@u
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z15 !s100 l`2SPbS0dB71oaUe^TX`40
+Z16 IMTh;ZBK:`[O0ZYnW?F2m=3
+R4
+R5
+Z17 w1389821995
+Z18 8C:/Users/5940-724/Desktop/lab4/alu_control.v
+Z19 FC:/Users/5940-724/Desktop/lab4/alu_control.v
+L0 2
+R9
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/alu_control.v|
+R13
+Z21 n@a@l@u@control
+R1
+Z22 !s108 1389824359.379000
+Z23 !s107 C:/Users/5940-724/Desktop/lab4/alu_control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBIGMUX2
+Z24 !s100 e@JOLCRa6WO`]Nef<BURd2
+Z25 I?9O<OWNBi;ED2DRzA25nA1
+R4
+R5
+Z26 w1389819476
+Z27 8C:/Users/5940-724/Desktop/lab4/mux5b.v
+Z28 FC:/Users/5940-724/Desktop/lab4/mux5b.v
+L0 1
+R9
+r1
+31
+R13
+Z29 n@b@i@g@m@u@x2
+Z30 !s110 1389824360
+Z31 !s108 1389824359.996000
+Z32 !s107 C:/Users/5940-724/Desktop/lab4/mux5b.v|
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/mux5b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+R1
+Z34 !s100 5Gd>WmSPmT=GzAlX6GnoK0
+Z35 IH>8:5PdNF?l8S_MMo4EzX3
+R4
+R5
+Z36 w1389824160
+Z37 8C:/Users/5940-724/Desktop/lab4/control.v
+Z38 FC:/Users/5940-724/Desktop/lab4/control.v
+L0 2
+R9
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/control.v|
+R13
+Z40 n@control
+Z41 !s108 1389824359.575000
+Z42 !s107 C:/Users/5940-724/Desktop/lab4/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+R1
+Z43 IkA9BR>^KV`=ZGI5alT7]Y3
+R4
+R5
+Z44 w1389824312
+Z45 8C:/Users/5940-724/Desktop/lab4/cpu.v
+Z46 FC:/Users/5940-724/Desktop/lab4/cpu.v
+L0 1
+R9
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/cpu.v|
+R13
+Z48 !s100 H:Y0:?l6?WkE^E]g3E<Q>3
+Z49 !s108 1389824359.677000
+Z50 !s107 C:/Users/5940-724/Desktop/lab4/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATAMEM
+R1
+Z51 !s100 bSLEb@IhCa>Yz<83o>:bT1
+Z52 INafW:5;WlcHkoXTQa<Q1T0
+R4
+R5
+Z53 w1389822592
+Z54 8C:/Users/5940-724/Desktop/lab4/DataMemory.v
+Z55 FC:/Users/5940-724/Desktop/lab4/DataMemory.v
+L0 1
+R9
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/DataMemory.v|
+R13
+Z57 n@d@a@t@a@m@e@m
+Z58 !s108 1389824359.792000
+Z59 !s107 C:/Users/5940-724/Desktop/lab4/DataMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXMEM
+R30
+Z60 !s100 f5G9NfPTiPC<TikzW@kTh0
+Z61 IZ0HV7;mfDe9`]9OcgGaN11
+R4
+R5
+Z62 w1389821751
+Z63 8C:/Users/5940-724/Desktop/lab4/pipeline_regs.v
+Z64 FC:/Users/5940-724/Desktop/lab4/pipeline_regs.v
+L0 80
+R9
+r1
+31
+Z65 !s108 1389824360.127000
+Z66 !s107 C:/Users/5940-724/Desktop/lab4/pipeline_regs.v|
+Z67 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/pipeline_regs.v|
+R13
+Z68 n@e@x@m@e@m
+!i10b 1
+!s85 0
+!s101 -O0
+vForwardUnit
+R30
+Z69 !s100 b^=;31[fZN@5iMcR1aSaI1
+Z70 I59c=Ael9Vc2P;`YAU:3dO1
+R4
+R5
+R62
+R63
+R64
+Z71 L0 149
+R9
+r1
+31
+R65
+R66
+R67
+R13
+Z72 n@forward@unit
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardUnit
+R30
+Z73 !s100 CJn<Xck:dBkKA=UY01P^W1
+Z74 IMo`@@YH0GA;ZFU@]@hiG>0
+R4
+R5
+R62
+R63
+R64
+Z75 L0 180
+R9
+r1
+31
+R65
+R66
+R67
+R13
+Z76 n@hazard@unit
+!i10b 1
+!s85 0
+!s101 -O0
+vIDEX
+R30
+Z77 !s100 dkbB`23<YbF06CG?M_DR80
+Z78 IzQ[W5d_AB;?Zn914=nYI72
+R4
+R5
+R62
+R63
+R64
+L0 30
+R9
+r1
+31
+R65
+R66
+R67
+R13
+Z79 n@i@d@e@x
+!i10b 1
+!s85 0
+!s101 -O0
+vIFID
+R30
+Z80 !s100 cM]T@J=^0W4`Q566afi^70
+Z81 Ih`12o8hAfcg^0C95UJdUG2
+R4
+R5
+R62
+R63
+R64
+L0 1
+R9
+r1
+31
+R65
+R66
+R67
+R13
+Z82 n@i@f@i@d
+!i10b 1
+!s85 0
+!s101 -O0
+vInstructMem
+R1
+Z83 !s100 5[T@0=f_E]jCLjleZBBPL3
+Z84 I:PazBl4@1BhM3FmJS7hg_0
+R4
+R5
+R6
+R7
+R8
+L0 54
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z85 n@instruct@mem
+!i10b 1
+!s85 0
+!s101 -O0
+vMEMWB
+R30
+Z86 !s100 Vai@kCWKacd5_YZSJVN]51
+Z87 IXLKUTDPnHW@OM:_aXNfJ^2
+R4
+R5
+R62
+R63
+R64
+Z88 L0 116
+R9
+r1
+31
+R65
+R66
+R67
+R13
+Z89 n@m@e@m@w@b
+!i10b 1
+!s85 0
+!s101 -O0
+vPipelined_TestBench
+R30
+!i10b 1
+Z90 !s100 I[bU0hKaFaioZb[L<:S6_3
+Z91 I7AJhlRC4V1YmPf2E?YL4H0
+R4
+R5
+Z92 w1389813986
+Z93 8C:/Users/5940-724/Desktop/lab4/testbench_input.v
+Z94 FC:/Users/5940-724/Desktop/lab4/testbench_input.v
+L0 3
+R9
+r1
+!s85 0
+31
+!s108 1389824360.259000
+!s107 C:/Users/5940-724/Desktop/lab4/testbench_input.v|
+Z95 !s90 -reportprogress|300|-work|work|C:/Users/5940-724/Desktop/lab4/testbench_input.v|
+!s101 -O0
+R13
+Z96 n@pipelined_@test@bench
+vRegisters
+R1
+Z97 !s100 Ge`Ik08]700W^P6:lf2A93
+Z98 I`^;eJfUih?b<Tf?oXl]CF0
+R4
+R5
+R6
+R7
+R8
+L0 68
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z99 n@registers
+!i10b 1
+!s85 0
+!s101 -O0
